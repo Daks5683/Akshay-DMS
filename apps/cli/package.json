@@ -1,0 +1,12 @@
+{
+  "name": "@akshay-dms/cli",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "akshay-dms": "src/index.js"
+  },
+  "scripts": {
+    "dev": "node src/index.js"
+  }
+}
